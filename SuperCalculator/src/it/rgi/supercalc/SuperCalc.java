@@ -31,4 +31,5 @@ public class SuperCalc {
 		ret= op1*op2;
 		return ret;
 	}
+	
 }

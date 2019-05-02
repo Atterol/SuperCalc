@@ -4,13 +4,13 @@
 package it.rgi.supercalc;
 
 /**
- * @author academy1426r.01
+ * @author Atterol
  *
  */
 public class SuperCalcTest {
 
 	/**
-	 * 
+	 * Constructor
 	 */
 	public SuperCalcTest() {
 		// TODO Auto-generated constructor stub
